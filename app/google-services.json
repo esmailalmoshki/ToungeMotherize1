@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1006817750086",
+    "project_id": "toungemotherize",
+    "storage_bucket": "toungemotherize.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006817750086:android:e6b1824dc49152bc902e47",
+        "android_client_info": {
+          "package_name": "com.example.toungemotherize"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006817750086-4enp23q5htl1r6vvg8a0lg2ccihq1ltd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeJHy5EDkn9-BY-9q4xIIa_95F7IiQbko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006817750086-4enp23q5htl1r6vvg8a0lg2ccihq1ltd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

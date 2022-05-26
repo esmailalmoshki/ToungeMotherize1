@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ToungeMotherize</string>
+    <string name="translate">Translate</string>
+    <string name="toungemotherize">ToungeMotherize</string>
+    <string name="translated_text_here">Translated text here</string>
+    <string name="or">or</string>
+    <string name="speak_it">Speak it</string>
+    <string name="arrow">arrow</string>
+    <string name="mainicon">mainIcon</string>
+    <string name="type_your_txt">Type your txt</string>
+    <string name="voiceicon">voiceIcon</string>
+    <string name="type_your_text" />
+</resources>
